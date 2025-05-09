@@ -1,6 +1,6 @@
 local Player = game.Players.LocalPlayer
 local VirtualInputManager = game:GetService("VirtualInputManager")
-local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/TanDatIOS/TanDatLuxucu/refs/heads/main/main.txt"))()
+local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/VanThanhIOS/VanThanhLuxucu/refs/heads/main/main.txt"))()
  
 local Hub = Material.Load({
 	Title = "Tấn Đạt IOS",
